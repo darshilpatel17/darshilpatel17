@@ -2,9 +2,9 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Building new projects
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/thedarshilpatel/
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy debugging... or at least, I’ve learned to pretend I do.
 
 <!---
 darshilpatel17/darshilpatel17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
